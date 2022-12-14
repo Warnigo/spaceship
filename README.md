@@ -18,5 +18,5 @@ Space is infinite, so the x,y coordinates you return could be placed on a seemin
 
 So let's say an upward-facing rocket ship leaves its starting point of 0,0 and is given the flight path of “RRALAA”, its final location will be 2,-1 and it will be facing right.
 
-# detail
+# Detail
 We are using Computer Graphics Coordinate System (https://fcs-cs.github.io/cs1-2018/modules/01-introduction/computer-coordinates/)
