@@ -20,3 +20,7 @@ So let's say an upward-facing rocket ship leaves its starting point of 0,0 and i
 
 # Detail
 We are using Computer Graphics Coordinate System (https://fcs-cs.github.io/cs1-2018/modules/01-introduction/computer-coordinates/)
+
+# Notes
+## Thank you for <br>your attention
+<img src="https://user-images.githubusercontent.com/119101655/215310804-70b3e401-6fcf-4fd0-97b4-c94df0623057.png" alt="this is result image">
